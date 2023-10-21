@@ -7,10 +7,10 @@
 <body>
 <h1 style="text_align=center">Calculator</h1>
       <form action="firstHomePage" method="get">
-<label>FIRST NUMBER:</label>
+<label>1 NUMBER:</label>
 <input type="text" name="n1" />
 <br />
-<label>SECOND NUMBER : </label>
+<label>2 NUMBER : </label>
 <input type="text" name="n2" />
 <br />
  <div>
